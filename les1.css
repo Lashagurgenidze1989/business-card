@@ -1,0 +1,27 @@
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image {
+  width: 150px;
+  border-radius: 6px;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(39, 36, 36);
+  background-color: aquamarine;
+  border-bottom: 5px solid aqua;
+  margin: 0 auto;
+}
+
+.text {
+  text-align: center;
+}
+
